@@ -7,7 +7,7 @@ Don't remember which hook to use? Here's a quick reference sheet to go through a
 
 - ⚛️ [useState](https://react.dev/reference/react/useState)<br/>
    Read and update local values from a component
-- ✴️ [useKeyedState](./useKeyedState)<br/>
+- ✴️ [useKeyedState](./useKeyedState.md)<br/>
    Read and update values from an individual item within a component
 
 ### Share Data Across Components
