@@ -22,7 +22,7 @@ Don't remember which hook to use? Here's a quick reference sheet to go through a
 ### Work With the DOM and External JS
 
 - ⚛️ [useEffect](https://react.dev/reference/react/useEffect)<br/>
-   Run side effects after the component has rendered
+   Run side effects *after* the component has rendered
 - ⚛️ [useLayoutEffect](https://react.dev/reference/react/useLayoutEffect)<br/>
    Run side effects *before* the browser paints the screen
 - ⚛️ [useRef](https://react.dev/reference/react/useRef#manipulating-the-dom-with-a-ref)<br/>
